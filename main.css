@@ -1,0 +1,23 @@
+table.bordered-table, th, td {
+    border: 1px solid blue;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 20px;
+    text-align: left;
+}
+
+table.bordered-table {
+    width: 30%;
+    margin: 10px auto;
+    font-family: Arial;
+}
+
+td {
+    background-color: #ccdae0;
+}
+
+th {
+    background-color: #3e8fb4;
+}
